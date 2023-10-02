@@ -636,7 +636,7 @@ input{
     }
     .container {
         max-width: 768px;
-        margin: 0 auto;
+        /* margin: 0 auto; */
     }
 
     .header-box {
